@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/millerpractice/static/css/main.d1b05096.chunk.css",
+    "main.js": "/millerpractice/static/js/main.50693050.chunk.js",
+    "main.js.map": "/millerpractice/static/js/main.50693050.chunk.js.map",
+    "runtime-main.js": "/millerpractice/static/js/runtime-main.6baaa09a.js",
+    "runtime-main.js.map": "/millerpractice/static/js/runtime-main.6baaa09a.js.map",
+    "static/js/2.a408834a.chunk.js": "/millerpractice/static/js/2.a408834a.chunk.js",
+    "static/js/2.a408834a.chunk.js.map": "/millerpractice/static/js/2.a408834a.chunk.js.map",
+    "index.html": "/millerpractice/index.html",
+    "precache-manifest.fb178b45f7ede5e2387269fb1f00e8b0.js": "/millerpractice/precache-manifest.fb178b45f7ede5e2387269fb1f00e8b0.js",
+    "service-worker.js": "/millerpractice/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/millerpractice/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a408834a.chunk.js.LICENSE": "/millerpractice/static/js/2.a408834a.chunk.js.LICENSE",
+    "static/media/female.png": "/millerpractice/static/media/female.c840e610.png",
+    "static/media/healthcare.png": "/millerpractice/static/media/healthcare.3f35d139.png",
+    "static/media/hearth.png": "/millerpractice/static/media/hearth.0f807958.png",
+    "static/media/logo.png": "/millerpractice/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/millerpractice/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/millerpractice/static/media/office.9c84c66c.jpg",
+    "static/media/profile doc transperent.png": "/millerpractice/static/media/profile doc transperent.de578f1b.png",
+    "static/media/welcome.jpg": "/millerpractice/static/media/welcome.df75fc92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6baaa09a.js",
+    "static/js/2.a408834a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.50693050.chunk.js"
+  ]
+}
