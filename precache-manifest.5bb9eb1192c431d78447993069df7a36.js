@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b8ea6601432743d1ce5f293fea60ff3",
+    "revision": "22d354afd88ad2b954ae439a37882580",
     "url": "/millerpractice/index.html"
   },
   {
-    "revision": "29edb9845de1b5d1143e",
+    "revision": "5525b7d87c808827f964",
     "url": "/millerpractice/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "e68672af1405e5e6121c",
-    "url": "/millerpractice/static/js/2.7773dd31.chunk.js"
+    "revision": "47bdb3581cb1680f70c5",
+    "url": "/millerpractice/static/js/2.b0ee7f21.chunk.js"
   },
   {
     "revision": "a0560e08c2bea09cecbe463a56dcf52b",
-    "url": "/millerpractice/static/js/2.7773dd31.chunk.js.LICENSE"
+    "url": "/millerpractice/static/js/2.b0ee7f21.chunk.js.LICENSE"
   },
   {
-    "revision": "29edb9845de1b5d1143e",
-    "url": "/millerpractice/static/js/main.d215654d.chunk.js"
+    "revision": "5525b7d87c808827f964",
+    "url": "/millerpractice/static/js/main.6bb1c8f5.chunk.js"
   },
   {
     "revision": "c5e34cd062f964f76c91",
     "url": "/millerpractice/static/js/runtime-main.6baaa09a.js"
-  },
-  {
-    "revision": "5ee52bc4994dc81b4a31a793057949ed",
-    "url": "/millerpractice/static/media/desktop150.5ee52bc4.png"
-  },
-  {
-    "revision": "4cd8510bfbe547990dfdfedfa647ca3b",
-    "url": "/millerpractice/static/media/desktop200.4cd8510b.png"
   },
   {
     "revision": "528614842b2d821303fa07d827a2fdec",
@@ -52,12 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/millerpractice/static/media/healthcare md.6ec9e088.png"
   },
   {
-    "revision": "ba540a753f61e0542ddd856b4f8e90ca",
-    "url": "/millerpractice/static/media/hearth300.ba540a75.png"
-  },
-  {
-    "revision": "5634856a9d1361d250eceb635150f7e7",
-    "url": "/millerpractice/static/media/hearth350.5634856a.png"
+    "revision": "776034c2dc7cb4835430b57c1d0e070c",
+    "url": "/millerpractice/static/media/hearth100.776034c2.png"
   },
   {
     "revision": "d9e659790a821d0454453caf5773556b",
