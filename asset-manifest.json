@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/millerpractice/static/css/main.d1b05096.chunk.css",
-    "main.js": "/millerpractice/static/js/main.f1e7af75.chunk.js",
-    "main.js.map": "/millerpractice/static/js/main.f1e7af75.chunk.js.map",
+    "main.js": "/millerpractice/static/js/main.d215654d.chunk.js",
+    "main.js.map": "/millerpractice/static/js/main.d215654d.chunk.js.map",
     "runtime-main.js": "/millerpractice/static/js/runtime-main.6baaa09a.js",
     "runtime-main.js.map": "/millerpractice/static/js/runtime-main.6baaa09a.js.map",
-    "static/js/2.41cb410d.chunk.js": "/millerpractice/static/js/2.41cb410d.chunk.js",
-    "static/js/2.41cb410d.chunk.js.map": "/millerpractice/static/js/2.41cb410d.chunk.js.map",
+    "static/js/2.7773dd31.chunk.js": "/millerpractice/static/js/2.7773dd31.chunk.js",
+    "static/js/2.7773dd31.chunk.js.map": "/millerpractice/static/js/2.7773dd31.chunk.js.map",
     "index.html": "/millerpractice/index.html",
-    "precache-manifest.17399b2737e534c1f3f81ccf056bf237.js": "/millerpractice/precache-manifest.17399b2737e534c1f3f81ccf056bf237.js",
+    "precache-manifest.242a7574089a0c695bc48256fb598d8b.js": "/millerpractice/precache-manifest.242a7574089a0c695bc48256fb598d8b.js",
     "service-worker.js": "/millerpractice/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/millerpractice/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.41cb410d.chunk.js.LICENSE": "/millerpractice/static/js/2.41cb410d.chunk.js.LICENSE",
+    "static/js/2.7773dd31.chunk.js.LICENSE": "/millerpractice/static/js/2.7773dd31.chunk.js.LICENSE",
+    "static/media/desktop150.png": "/millerpractice/static/media/desktop150.5ee52bc4.png",
+    "static/media/desktop200.png": "/millerpractice/static/media/desktop200.4cd8510b.png",
     "static/media/female prof lg.png": "/millerpractice/static/media/female prof lg.52861484.png",
     "static/media/female prof md.png": "/millerpractice/static/media/female prof md.f1d385f8.png",
     "static/media/female prof sm.png": "/millerpractice/static/media/female prof sm.e07e9cc5.png",
@@ -27,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6baaa09a.js",
-    "static/js/2.41cb410d.chunk.js",
+    "static/js/2.7773dd31.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f1e7af75.chunk.js"
+    "static/js/main.d215654d.chunk.js"
   ]
 }
