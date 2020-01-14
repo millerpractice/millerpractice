@@ -17,7 +17,6 @@ import DialogTitle from '@material-ui/core/DialogTitle';
 import requestlg from "./desktop200.png"
 import requestmd from "./desktop150.png"
 import requestsm from "./desktop100.png"
-import requestxs from "./desktop50.png"
 import ResponsiveImgMaterialUi from "responsive-img-material-ui";
 import Typography from '@material-ui/core/Typography';
 
